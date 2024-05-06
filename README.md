@@ -4,7 +4,8 @@ Hello! My name is Tamer Yılmaz. I am an Information Technology Technician and a
 
 As an Engineering student at Marmara University, I am passionate about learning and applying the theory and practice of computer and electronic devices. I aspire to solve problems and create innovative solutions using my engineering skills and knowledge.
 
-
+Skills:
+Database Programming | Web Development | Software Development
 
 
 - 🌱 I’m currently learning Python
