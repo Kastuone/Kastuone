@@ -9,3 +9,4 @@ Database Programming | Web Development | Software Development
 
 
 - 🌱 I’m currently learning Python
+- 🌱 How to reach me : kastuone(Instagram)
